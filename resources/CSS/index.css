@@ -25,6 +25,11 @@ h3 {
     text-align: center;
 }
 
+ul {
+    padding: 0px;
+    
+}
+
 p {
     text-align: center;
     color: black;
