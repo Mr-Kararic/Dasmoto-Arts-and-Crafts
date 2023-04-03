@@ -1,0 +1,74 @@
+* {
+    background-color: white;
+}
+
+h1 {
+    bottom: 75px;
+    position: relative;
+    font-family: helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background: url(/resources/CSS/images/pattern.jpeg);
+}
+
+h4 {
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: black;
+}
+
+#brushes{
+    background-color: mediumspringgreen;
+}
+
+#frames {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
+
+span {
+    font-family: helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 300px;
+    border-radius: 5px;
+    filter: drop-shadow(2px 2px 2px black);
+}
+
+.navbar {
+    width: 100%;
+    text-align: center;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 0 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+}
